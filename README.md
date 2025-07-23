@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # UAS Web Mahasiswa
 
 Proyek ini dibuat untuk memenuhi tugas akhir Ujian Akhir Semester berbasis Web.
@@ -17,3 +18,6 @@ node server.js
 ```
 
 Akses frontend dari file `frontend/index.html`.
+=======
+# uaswebmahasiswa
+>>>>>>> d82a68e79ac3b53e4f577496b401ede1ba16186d
